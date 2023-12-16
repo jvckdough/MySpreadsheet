@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uC1yvv4d3hjTo5k4i57R8OZrtljZ2/nW/ISACWdUUZogBwg+ETYi5m/Z+2wTZt5sRXa7Vj/jrOhHiN+z/NACAQ==",
+  "success": true,
+  "projectFilePath": "/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Spreadsheet/Spreadsheet.csproj",
+  "expectedPackageFiles": [
+    "/Users/jackdoughty/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "/Users/jackdoughty/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/jackdoughty/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

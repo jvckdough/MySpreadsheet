@@ -1,0 +1,17 @@
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Spreadsheet/bin/Debug/net7.0/Spreadsheet.deps.json
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Spreadsheet/bin/Debug/net7.0/Spreadsheet.dll
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Spreadsheet/bin/Debug/net7.0/Spreadsheet.pdb
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Spreadsheet/bin/Debug/net7.0/DependencyGraph.dll
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Spreadsheet/bin/Debug/net7.0/Formula.dll
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Spreadsheet/bin/Debug/net7.0/Formula.pdb
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Spreadsheet/bin/Debug/net7.0/DependencyGraph.pdb
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Spreadsheet/obj/Debug/net7.0/Spreadsheet.csproj.AssemblyReference.cache
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Spreadsheet/obj/Debug/net7.0/Spreadsheet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Spreadsheet/obj/Debug/net7.0/Spreadsheet.AssemblyInfoInputs.cache
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Spreadsheet/obj/Debug/net7.0/Spreadsheet.AssemblyInfo.cs
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Spreadsheet/obj/Debug/net7.0/Spreadsheet.csproj.CoreCompileInputs.cache
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Spreadsheet/obj/Debug/net7.0/Spreadsheet.csproj.CopyComplete
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Spreadsheet/obj/Debug/net7.0/Spreadsheet.dll
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Spreadsheet/obj/Debug/net7.0/refint/Spreadsheet.dll
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Spreadsheet/obj/Debug/net7.0/Spreadsheet.pdb
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Spreadsheet/obj/Debug/net7.0/ref/Spreadsheet.dll

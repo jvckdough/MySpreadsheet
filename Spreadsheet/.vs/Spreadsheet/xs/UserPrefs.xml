@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{0437A51E-E9E6-439A-8E4A-88542BDE0F4B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpreadSheetGui/MainPage.xaml.cs">
+    <Files>
+      <File FileName="Spreadsheet/Spreadsheet.cs" />
+      <File FileName="SpreadSheetGui/MainPage.xaml.cs" Line="198" Column="61" />
+      <File FileName="SpreadSheetGui/MainPage.xaml" />
+      <File FileName="SpreadSheetGui/SpreadsheetGrid.cs" />
+      <File FileName="SpreadSheetGui/SimpleSpreadsheetGrid.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Spreadsheet" expanded="True">
+            <Node name="SpreadsheetGUI">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SpreadsheetTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SpreadsheetGUI PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DependencyGraphTests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

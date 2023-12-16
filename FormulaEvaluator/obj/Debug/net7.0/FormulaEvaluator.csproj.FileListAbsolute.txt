@@ -1,0 +1,12 @@
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/FormulaEvaluator/bin/Debug/net7.0/FormulaEvaluator.deps.json
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/FormulaEvaluator/bin/Debug/net7.0/FormulaEvaluator.dll
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/FormulaEvaluator/bin/Debug/net7.0/FormulaEvaluator.pdb
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/FormulaEvaluator/obj/Debug/net7.0/FormulaEvaluator.csproj.AssemblyReference.cache
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/FormulaEvaluator/obj/Debug/net7.0/FormulaEvaluator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/FormulaEvaluator/obj/Debug/net7.0/FormulaEvaluator.AssemblyInfoInputs.cache
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/FormulaEvaluator/obj/Debug/net7.0/FormulaEvaluator.AssemblyInfo.cs
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/FormulaEvaluator/obj/Debug/net7.0/FormulaEvaluator.csproj.CoreCompileInputs.cache
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/FormulaEvaluator/obj/Debug/net7.0/FormulaEvaluator.dll
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/FormulaEvaluator/obj/Debug/net7.0/refint/FormulaEvaluator.dll
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/FormulaEvaluator/obj/Debug/net7.0/FormulaEvaluator.pdb
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/FormulaEvaluator/obj/Debug/net7.0/ref/FormulaEvaluator.dll

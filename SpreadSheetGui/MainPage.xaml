@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:SS="clr-namespace:SS"
+             x:Class="SpreadsheetGUI.MainPage">
+
+    <ContentPage.MenuBarItems>
+        <MenuBarItem Text="File">
+            <MenuFlyoutItem Text="New" Clicked="NewClicked" />
+            <MenuFlyoutItem Text="Open" Clicked="OpenClicked" />
+            <MenuFlyoutItem Text ="Save" Clicked ="SaveBtn_Clicked"/>
+        </MenuBarItem>
+
+        <MenuBarItem Text ="Help">
+            <MenuFlyoutItem Text ="How to use" Clicked="HelpMenu_Clicked"/>
+
+        </MenuBarItem>
+    </ContentPage.MenuBarItems>
+
+    <Grid>
+        <ScrollView x:Name="scrollView"
+            Grid.Row="1"
+            VerticalOptions="FillAndExpand"
+            Scrolled="OnScrollViewScrolled">
+        <VerticalStackLayout>
+            <Label
+                FontFamily="Lobster-Regular"
+                FontSize="24"
+                FontAttributes="Bold"
+                x:Name="nameText"
+                Text="A1"/>
+            <Label
+                FontFamily="Lobster-Regular"
+                FontSize="20"
+                x:Name="valueText"
+                Text=" "/>
+            <Entry
+                FontSize="20"
+                FontFamily="Lobster-Regular"
+                x:Name="contentText"
+                Text=""
+                TextChanged="contentText_TextChanged"
+                Completed = "contentText_Entered"/>
+                
+            <VerticalStackLayout>
+                <HorizontalStackLayout>
+                        <Button    
+                        x:Name="UndoBtn"
+                        Clicked="UndoBtn_Clicked"
+                        Text="Undo"/>
+                    </HorizontalStackLayout>
+            </VerticalStackLayout>
+
+
+            <SS:SpreadsheetGrid x:Name="spreadsheetGrid" />
+        </VerticalStackLayout>
+        </ScrollView>
+    </Grid>
+</ContentPage>

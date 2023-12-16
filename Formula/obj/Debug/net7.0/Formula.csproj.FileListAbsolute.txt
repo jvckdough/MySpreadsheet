@@ -1,0 +1,12 @@
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Formula/bin/Debug/net7.0/Formula.deps.json
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Formula/bin/Debug/net7.0/Formula.dll
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Formula/bin/Debug/net7.0/Formula.pdb
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Formula/obj/Debug/net7.0/Formula.csproj.AssemblyReference.cache
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Formula/obj/Debug/net7.0/Formula.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Formula/obj/Debug/net7.0/Formula.AssemblyInfoInputs.cache
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Formula/obj/Debug/net7.0/Formula.AssemblyInfo.cs
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Formula/obj/Debug/net7.0/Formula.csproj.CoreCompileInputs.cache
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Formula/obj/Debug/net7.0/Formula.dll
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Formula/obj/Debug/net7.0/refint/Formula.dll
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Formula/obj/Debug/net7.0/Formula.pdb
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/Formula/obj/Debug/net7.0/ref/Formula.dll
