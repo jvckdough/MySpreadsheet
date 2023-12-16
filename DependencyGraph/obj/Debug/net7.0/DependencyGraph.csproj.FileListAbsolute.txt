@@ -1,0 +1,12 @@
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/DependencyGraph/bin/Debug/net7.0/DependencyGraph.deps.json
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/DependencyGraph/bin/Debug/net7.0/DependencyGraph.dll
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/DependencyGraph/bin/Debug/net7.0/DependencyGraph.pdb
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/DependencyGraph/obj/Debug/net7.0/DependencyGraph.csproj.AssemblyReference.cache
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/DependencyGraph/obj/Debug/net7.0/DependencyGraph.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/DependencyGraph/obj/Debug/net7.0/DependencyGraph.AssemblyInfoInputs.cache
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/DependencyGraph/obj/Debug/net7.0/DependencyGraph.AssemblyInfo.cs
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/DependencyGraph/obj/Debug/net7.0/DependencyGraph.csproj.CoreCompileInputs.cache
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/DependencyGraph/obj/Debug/net7.0/DependencyGraph.dll
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/DependencyGraph/obj/Debug/net7.0/refint/DependencyGraph.dll
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/DependencyGraph/obj/Debug/net7.0/DependencyGraph.pdb
+/Users/jackdoughty/Projects/ps6-sigma-code/Spreadsheet/DependencyGraph/obj/Debug/net7.0/ref/DependencyGraph.dll
